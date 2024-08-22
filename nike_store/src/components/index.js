@@ -1,0 +1,10 @@
+import Button from "./Button";
+import Nav from "./Nav";
+import PopularProductCard from "./PopularProductCard";
+import ShoeCard from "./ShoeCard";
+import ReviewCard from "./ReviewCard";
+import ServiceCard from "./ServiceCard";
+
+export default{
+    Button,Nav,PopularProductCard,ShoeCard,ReviewCard,ServiceCard
+}
